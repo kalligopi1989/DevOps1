@@ -1,2 +1,1 @@
-# DevOps1
-New DevOps file
+“Welcome to GIT”
